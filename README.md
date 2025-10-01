@@ -64,6 +64,8 @@ Status is used to display details about orientation,panels(active/inactive) and 
 Exit
 
 ![WhatsApp Image 2025-10-02 at 00 11 12_8f0e455d](https://github.com/user-attachments/assets/ba78b216-bb35-4342-a6e0-482e259e3793)
+Thankyou
+
 
 
 
