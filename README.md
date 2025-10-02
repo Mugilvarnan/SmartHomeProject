@@ -4,6 +4,7 @@ This is a project about Satellite Command System
 
 EXERCISE 1 - Problem Statement on Design patterns
 Two use cases to demonstrate two behavioural design pattern.
+
 Observer
 
 Strategy
@@ -15,6 +16,7 @@ Builder
 Prototype
 
 Two use cases to demonstrate two structural design pattern.
+
 Adaptor
 
 Bridge
