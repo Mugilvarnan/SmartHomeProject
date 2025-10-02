@@ -45,7 +45,9 @@ Interface:
 
 Command
 
-Pattern Used: Command Pattern
+Pattern Used: 
+
+Command Pattern
 
 Features
 
