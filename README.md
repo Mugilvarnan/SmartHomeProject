@@ -1,3 +1,4 @@
+
 Satellite Command System
 This is a project about Satellite Command System
 
@@ -8,14 +9,15 @@ Observer
 Strategy
 
 Two use cases to demonstrate two creational design pattern.
-Factory
 
-Singleton
+Builder
+
+Prototype
 
 Two use cases to demonstrate two structural design pattern.
 Adaptor
 
-Composite
+Bridge
 
 EXERCISE 2: 6) Satellite Command System Programming Exercise
 Satellite Command System simulates controlling a satellite in orbit. The satellite starts in a default initial state and can accept a series of commands to change its orientation, solar panel status, and data collection.
@@ -46,7 +48,7 @@ Orientation
 Activate and Deactivate Panels
 
 Collectdata
-Orientation( rotate(South) would set the orientation to "South"
+Orientation( rotate(South) would set the orientation to "South")
 ![WhatsApp Image 2025-10-02 at 00 11 11_07213020](https://github.com/user-attachments/assets/795b2f15-e28a-4835-979d-03e448087e4c)
 
 Activate Panels
@@ -65,9 +67,4 @@ Exit
 
 ![WhatsApp Image 2025-10-02 at 00 11 12_8f0e455d](https://github.com/user-attachments/assets/ba78b216-bb35-4342-a6e0-482e259e3793)
 Thankyou
-
-
-
-
-
 
